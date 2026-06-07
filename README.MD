@@ -1,8 +1,4 @@
-<div align="center">
-
 # VibeFlow — Sistem Manajemen Proyek IT Berbasis Web
-
-</div>
 
 <div align="center">
 
